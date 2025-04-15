@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /front/node_modules
+/front/.next
 /.pnp
 .pnp.js
 

@@ -21,3 +21,40 @@ Este repositorio esta dividido en 2 partes:
 Y de esa forma, podra usar de manera satisfactoria los enpoints propios para el consumo de servicios API REST para el proyecto.
 
 - front: Carpeta donde se encuentra implementado la parte visual del proyecto realizado en React JS.
+
+#### 🧑🏻‍💻 Tecnologías utilizadas
+
+⭐ HTML
+⭐ ReactJS (react-scripts)
+⭐ axios
+⭐ bcryptjs-react
+⭐ cors
+⭐ Git
+⭐ GitHub
+⭐ Postman
+⭐ Extension para Google Chrome *"Moesif Origin/CORS Changer & API Logger"*
+
+#### 🔧 Pasos de instalación y ejecución
+
+Como paso previo se debera clonar el proyecto y reubicar en el desino de su preferencia, la carpeta "front" que se encuentra dentro del repositorio en este [enlace](https://github.com/MarcoAlducinR5/prueba-tecnica-bomo "enlace") usando el siguiente comando:
+
+```bash
+git clone git@github.com:MarcoAlducinR5/prueba-tecnica-bomo.git
+```
+
+Acto seguido debera descargar todas las dependencias usando:
+
+```bash
+npm install
+```
+
+Para ejecutar el proyecto de manera local, use el siguiente comando:
+
+```bash
+npm run start
+```
+
+#### ⚠️  Información adicional
+
+> - Para la correcta conexion de los servicios API REST en Google Chrome, y no tenga inconvenientes con los errores salientes, esto para el tema del CORS, le recomendamos utilizar la extension de Google Chrome **Moesif Origin/CORS Changer & API Logger**, puede agregarlo al navegador usando el siguiente [enlace](https://chromewebstore.google.com/detail/moesif-origincors-changer/digfbfaphojjndkpccljibejjbppifbc "enlace").
+> - Acto seguido, debe activar la opcion **Enable CORS** en la configuracion de la misma.
